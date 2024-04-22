@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment="acılıs ücreti int olarak tanımlandı.">
-      <change beforePath="$PROJECT_DIR$/src/ödev1/taksimetre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ödev1/taksimetre.java" afterDir="false" />
+    <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment="minumun ödeme işlemi için değişken atandı.">
+      <change afterPath="$PROJECT_DIR$/src/ödev1/daire_alani.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.JavaPatika.executor": "Run",
+    "Application.daire_alani.executor": "Run",
     "Application.deneme1.executor": "Run",
     "Application.getting_value.executor": "Run",
     "Application.hiponetus_bulma.executor": "Run",
@@ -54,7 +56,20 @@
     "onboarding.tips.debug.path": "C:/Users/oguzh/IdeaProjects/Practical_Examples/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.taksimetre">
+  <component name="RunManager" selected="Application.daire_alani">
+    <configuration name="daire_alani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ödev1.daire_alani" />
+      <module name="Practical_Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ödev1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="deneme1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ödev1.deneme1" />
       <module name="Practical_Examples" />
@@ -107,26 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ödev1.ortalama_hesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ödev1.ortalama_hesaplama" />
-      <module name="Practical_Examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ödev1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.daire_alani" />
         <item itemvalue="Application.taksimetre" />
         <item itemvalue="Application.hiponetus_bulma" />
         <item itemvalue="Application.kdv_tutarı" />
         <item itemvalue="Application.deneme1" />
-        <item itemvalue="Application.ödev1.ortalama_hesaplama" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713795274923</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="minumun ödeme işlemi için değişken atandı.">
+      <option name="closed" value="true" />
+      <created>1713795577021</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713795577021</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -229,7 +239,8 @@
     <MESSAGE value="Kenar değerleri alınarak çevre ve alan hesabının yapılması." />
     <MESSAGE value="Girilen veriye göre Taksimetre ücreti hesaplama." />
     <MESSAGE value="acılıs ücreti int olarak tanımlandı." />
-    <option name="LAST_COMMIT_MESSAGE" value="acılıs ücreti int olarak tanımlandı." />
+    <MESSAGE value="minumun ödeme işlemi için değişken atandı." />
+    <option name="LAST_COMMIT_MESSAGE" value="minumun ödeme işlemi için değişken atandı." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
