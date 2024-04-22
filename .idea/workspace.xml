@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment="Yarı çağ değeri  için ve belirli bir açı aralıgındaki daire için alan hesaplaması yapılması.">
-      <change afterPath="$PROJECT_DIR$/src/ödev1/kitle_endeks.java" afterDir="false" />
+    <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment="Boy ve kilo değerleri alınarak kütle indeksi hesaplaması yapıldı.">
+      <change afterPath="$PROJECT_DIR$/src/ödev1/manav_kasa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +44,7 @@
     "Application.hiponetus_bulma.executor": "Run",
     "Application.kdv_tutarı.executor": "Run",
     "Application.kitle_endeks.executor": "Run",
+    "Application.manav_kasa.executor": "Run",
     "Application.mantıksal_operatörler.executor": "Run",
     "Application.ortalama_hesaplama.executor": "Run",
     "Application.taksimetre.executor": "Run",
@@ -57,7 +58,7 @@
     "onboarding.tips.debug.path": "C:/Users/oguzh/IdeaProjects/Practical_Examples/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.kitle_endeks">
+  <component name="RunManager" selected="Application.manav_kasa">
     <configuration name="daire_alani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ödev1.daire_alani" />
       <module name="Practical_Examples" />
@@ -84,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kdv_tutarı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ödev1.kdv_tutarı" />
+    <configuration name="kitle_endeks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ödev1.kitle_endeks" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kitle_endeks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ödev1.kitle_endeks" />
+    <configuration name="manav_kasa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ödev1.manav_kasa" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.manav_kasa" />
         <item itemvalue="Application.kitle_endeks" />
         <item itemvalue="Application.daire_alani" />
         <item itemvalue="Application.taksimetre" />
         <item itemvalue="Application.hiponetus_bulma" />
-        <item itemvalue="Application.kdv_tutarı" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713799551469</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Boy ve kilo değerleri alınarak kütle indeksi hesaplaması yapıldı.">
+      <option name="closed" value="true" />
+      <created>1713800474766</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713800474766</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,7 +267,8 @@
     <MESSAGE value="acılıs ücreti int olarak tanımlandı." />
     <MESSAGE value="minumun ödeme işlemi için değişken atandı." />
     <MESSAGE value="Yarı çağ değeri  için ve belirli bir açı aralıgındaki daire için alan hesaplaması yapılması." />
-    <option name="LAST_COMMIT_MESSAGE" value="Yarı çağ değeri  için ve belirli bir açı aralıgındaki daire için alan hesaplaması yapılması." />
+    <MESSAGE value="Boy ve kilo değerleri alınarak kütle indeksi hesaplaması yapıldı." />
+    <option name="LAST_COMMIT_MESSAGE" value="Boy ve kilo değerleri alınarak kütle indeksi hesaplaması yapıldı." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
