@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment="Kullanıcıdan veriler alınarak başarı durumu belirlendi.">
+      <change afterPath="$PROJECT_DIR$/src/ödev1/kdv_tutarı.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +40,7 @@
     "Application.JavaPatika.executor": "Run",
     "Application.deneme1.executor": "Run",
     "Application.getting_value.executor": "Run",
+    "Application.kdv_tutarı.executor": "Run",
     "Application.mantıksal_operatörler.executor": "Run",
     "Application.ortalama_hesaplama.executor": "Run",
     "Application.veri_alma.executor": "Run",
@@ -51,13 +53,13 @@
     "onboarding.tips.debug.path": "C:/Users/oguzh/IdeaProjects/Practical_Examples/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.deneme1">
-    <configuration name="JavaPatika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.JavaPatika" />
+  <component name="RunManager" selected="Application.kdv_tutarı">
+    <configuration name="deneme1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ödev1.deneme1" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_1.*" />
+          <option name="PATTERN" value="ödev1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="deneme1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ödev1.deneme1" />
+    <configuration name="kdv_tutarı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ödev1.kdv_tutarı" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.kdv_tutarı" />
         <item itemvalue="Application.deneme1" />
         <item itemvalue="Application.ödev1.ortalama_hesaplama" />
         <item itemvalue="Application.ortalama_hesaplama" />
         <item itemvalue="Application.veri_alma" />
-        <item itemvalue="Application.JavaPatika" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713783007562</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Kullanıcıdan veriler alınarak başarı durumu belirlendi.">
+      <option name="closed" value="true" />
+      <created>1713785268602</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713785268602</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
