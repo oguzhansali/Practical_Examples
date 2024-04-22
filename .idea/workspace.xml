@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment="üçüncü bir değer girilerek işlem tekrarlandı.">
-      <change afterPath="$PROJECT_DIR$/src/Week_1/mantıksal_operatörler.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Week_1/notort_hesaplama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_1/veri_alma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/veri_alma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/veri_alma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713766283969</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="üçüncü bir değer girilerek işlem tekrarlandı.">
+      <option name="closed" value="true" />
+      <created>1713776510684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713776510684</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

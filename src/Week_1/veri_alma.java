@@ -9,18 +9,15 @@ public class veri_alma {
         Double maas ;
 
 
-        System.out.println("Yaşınızı giriniz:");
+        System.out.printf("Yaşınızı giriniz:");
         yas = input.nextInt();
 
-        System.out.println("Maaşınızı giriniz:");
+        System.out.printf("Maaşınızı giriniz:");
         maas = input.nextDouble();
 
-        System.out.println("Adınızı giriniz:" );
-        String ad = input.nextLine();
-
         System.out.println("Yaşınız: " + yas);
-        System.out.println("Maşınız: " + maas);
-        System.out.println("Adınız: " + ad);
+        System.out.printf("Maşınız: " + maas);
+
 
     }
 }
