@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment="Kenar değerleri alınarak çevre ve alan hesabının yapılması.">
-      <change afterPath="$PROJECT_DIR$/src/ödev1/taksimetre.java" afterDir="false" />
+    <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment="Girilen veriye göre Taksimetre ücreti hesaplama.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ödev1/taksimetre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ödev1/taksimetre.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713792833096</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Girilen veriye göre Taksimetre ücreti hesaplama.">
+      <option name="closed" value="true" />
+      <created>1713794563525</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713794563526</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -212,7 +220,8 @@
     <MESSAGE value="Kullanıcıdan veriler alınarak başarı durumu belirlendi." />
     <MESSAGE value="Kullanıcıdan alınan bilgiler sayesinde KDV oranı hesaplama." />
     <MESSAGE value="Kenar değerleri alınarak çevre ve alan hesabının yapılması." />
-    <option name="LAST_COMMIT_MESSAGE" value="Kenar değerleri alınarak çevre ve alan hesabının yapılması." />
+    <MESSAGE value="Girilen veriye göre Taksimetre ücreti hesaplama." />
+    <option name="LAST_COMMIT_MESSAGE" value="Girilen veriye göre Taksimetre ücreti hesaplama." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
