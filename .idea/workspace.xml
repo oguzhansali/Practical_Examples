@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment="Girilen veriye göre Taksimetre ücreti hesaplama.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment="acılıs ücreti int olarak tanımlandı.">
       <change beforePath="$PROJECT_DIR$/src/ödev1/taksimetre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ödev1/taksimetre.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -211,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713794563526</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="acılıs ücreti int olarak tanımlandı.">
+      <option name="closed" value="true" />
+      <created>1713795274923</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713795274923</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -221,7 +228,8 @@
     <MESSAGE value="Kullanıcıdan alınan bilgiler sayesinde KDV oranı hesaplama." />
     <MESSAGE value="Kenar değerleri alınarak çevre ve alan hesabının yapılması." />
     <MESSAGE value="Girilen veriye göre Taksimetre ücreti hesaplama." />
-    <option name="LAST_COMMIT_MESSAGE" value="Girilen veriye göre Taksimetre ücreti hesaplama." />
+    <MESSAGE value="acılıs ücreti int olarak tanımlandı." />
+    <option name="LAST_COMMIT_MESSAGE" value="acılıs ücreti int olarak tanımlandı." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

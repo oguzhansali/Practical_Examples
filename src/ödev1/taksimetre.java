@@ -7,6 +7,7 @@ public class taksimetre {
 
         int km;// Değişken tanımlandı.
         int acılıs = 10;
+        int min_ödeme = 20;
         Scanner inp = new Scanner(System.in);// veri almaya yarayan scanner tanımlandı.
 
         System.out.println("Gidilen yol: ");// Veri alındı.
@@ -16,7 +17,7 @@ public class taksimetre {
         double tutar = (km*2.20)+ acılıs;// Değişken tanımlandı.
 
         if(tutar < 20){//Tutara göre fiyat belirlemesi yapıldı.
-            System.out.println("Ödenecek Tutar: " + (20) + " TL dir.");
+            System.out.println("Ödenecek Tutar: " + (min_ödeme) + " TL dir.");
 
 
         }else if (tutar>20){
