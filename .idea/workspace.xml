@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment="minumun ödeme işlemi için değişken atandı.">
-      <change afterPath="$PROJECT_DIR$/src/ödev1/daire_alani.java" afterDir="false" />
+    <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment="Yarı çağ değeri  için ve belirli bir açı aralıgındaki daire için alan hesaplaması yapılması.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ödev1/daire_alani.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ödev1/daire_alani.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ödev1/kdv_tutarı.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ödev1/kdv_tutarı.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713795577021</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Yarı çağ değeri  için ve belirli bir açı aralıgındaki daire için alan hesaplaması yapılması.">
+      <option name="closed" value="true" />
+      <created>1713799217002</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713799217003</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -240,7 +249,8 @@
     <MESSAGE value="Girilen veriye göre Taksimetre ücreti hesaplama." />
     <MESSAGE value="acılıs ücreti int olarak tanımlandı." />
     <MESSAGE value="minumun ödeme işlemi için değişken atandı." />
-    <option name="LAST_COMMIT_MESSAGE" value="minumun ödeme işlemi için değişken atandı." />
+    <MESSAGE value="Yarı çağ değeri  için ve belirli bir açı aralıgındaki daire için alan hesaplaması yapılması." />
+    <option name="LAST_COMMIT_MESSAGE" value="Yarı çağ değeri  için ve belirli bir açı aralıgındaki daire için alan hesaplaması yapılması." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

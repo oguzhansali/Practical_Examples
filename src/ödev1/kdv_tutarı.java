@@ -6,7 +6,7 @@ import java.util.Scanner;// kullanıcıdan veri alınması için scanner import 
 
 public class kdv_tutarı {
 
-    public static void main(String[] args) {// kodun çalıştırılamsı çin main bloğu eklendi.
+    public static void main(String[] args) {// kodun çalıştırılamsı için main bloğu eklendi.
         int tutar ;// Değişken tanımlandı.
 
         Scanner inpput = new Scanner(System.in);// veri almaya yarayan scanner tanımlandı.
