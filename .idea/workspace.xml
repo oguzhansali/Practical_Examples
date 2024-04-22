@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment="">
+    <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment="üçüncü bir değer girilerek işlem tekrarlandı.">
+      <change afterPath="$PROJECT_DIR$/src/Week_1/mantıksal_operatörler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/notort_hesaplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/veri_alma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_1/getting_value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/getting_value.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,7 +39,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.JavaPatika.executor": "Run",
     "Application.getting_value.executor": "Run",
+    "Application.mantıksal_operatörler.executor": "Run",
+    "Application.veri_alma.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -42,7 +50,20 @@
     "onboarding.tips.debug.path": "C:/Users/oguzh/IdeaProjects/Practical_Examples/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.veri_alma">
+    <configuration name="JavaPatika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.JavaPatika" />
+      <module name="Practical_Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="getting_value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_1.getting_value" />
       <module name="Practical_Examples" />
@@ -56,8 +77,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mantıksal_operatörler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.mantıksal_operatörler" />
+      <module name="Practical_Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="veri_alma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.veri_alma" />
+      <module name="Practical_Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.veri_alma" />
+        <item itemvalue="Application.JavaPatika" />
+        <item itemvalue="Application.mantıksal_operatörler" />
         <item itemvalue="Application.getting_value" />
       </list>
     </recent_temporary>
@@ -78,7 +128,20 @@
       <option name="presentableId" value="Default" />
       <updated>1713765753474</updated>
     </task>
+    <task id="LOCAL-00001" summary="üçüncü bir değer girilerek işlem tekrarlandı.">
+      <option name="closed" value="true" />
+      <created>1713766283969</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713766283969</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="üçüncü bir değer girilerek işlem tekrarlandı." />
+    <option name="LAST_COMMIT_MESSAGE" value="üçüncü bir değer girilerek işlem tekrarlandı." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
