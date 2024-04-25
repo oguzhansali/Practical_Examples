@@ -1,4 +1,4 @@
-package ödev1;
+package Week_1.odev1;
 
 
 import java.util.Scanner;// kullanıcıdan veri alınması için scanner import edildi.
@@ -23,6 +23,7 @@ public class kdv_tutarı {
         }else if (tutar>=1000){//Eğer ilk koşul sağlanmıyorsa uygulanan adım.
                 int kdv =(int) (tutar*0.08);////Koşul sağlandığında uygulanan adımlar.
                 System.out.println("KDV'siz Fiyat: " + tutar);//Kulllanıcıya iletilen veri.
+
                 System.out.println("Kdv Dahil Toplam Tutar: " + (kdv+ tutar));
                 System.out.println("KDV tutarı: " + kdv);
 

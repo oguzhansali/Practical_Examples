@@ -1,4 +1,4 @@
-package ödev1;
+package odev1;
 
 
 import java.util.Scanner;// kullanıcıdan veri alınması için scanner import edildi.
@@ -6,7 +6,8 @@ import java.util.Scanner;// kullanıcıdan veri alınması için scanner import 
 
 public class hiponetus_bulma {
     public static void main(String[] args) {// kodun çalıştırılamsı çin main bloğu eklendi.
-        int a, b, c;// Değişken tanımlandı.
+        int a, b ;// Değişken tanımlandı.
+
 
         Scanner innput = new Scanner(System.in);// veri almaya yarayan scanner tanımlandı.
 
@@ -16,16 +17,20 @@ public class hiponetus_bulma {
         System.out.println("2. Kenar Değerini Giriniz: ");
         b = innput.nextInt();
 
-        System.out.println("3. Kenar Değerini Giriniz: ");
-        c = innput.nextInt();
+        //System.out.println("3. Kenar Değerini Giriniz: ");
+        //c = innput.nextInt();
 
-        double u = (a+b+c)/2;//Değişken atandı.
+        double hipo = Math.sqrt(a*a+b*b);
+
+        double u = (a+b+hipo)/2;//Değişken atandı.
 
         double cevre = 2*u;//Değişken atandı.
         System.out.println("Üçgenin Çevresi: " + cevre);//Cevre bulundu.
 
-        double alan = Math.sqrt((u*(u-a)*(u-b)*(u-c)));
+        double alan = Math.sqrt((u*(u-a)*(u-b)*(u-hipo)));
         System.out.println("Üçgenin Alanı: " + alan);//Alan Bulundu.
+
+        System.out.println("Hipotenüs : " + hipo);
 
 
 

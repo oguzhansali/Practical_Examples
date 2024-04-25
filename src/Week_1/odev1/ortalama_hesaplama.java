@@ -1,5 +1,5 @@
 
-package ödev1;
+package Week_1.odev1;
 
 import java.util.Scanner;
 

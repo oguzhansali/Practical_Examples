@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment="Boy ve kilo değerleri alınarak kütle indeksi hesaplaması yapıldı.">
-      <change afterPath="$PROJECT_DIR$/src/ödev1/manav_kasa.java" afterDir="false" />
+    <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment="Sabit Kilo fiyatlarına satın alınan kilolar girilerek toplam manav alışveriş fiyatı hesaplaması.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/mantıksal_operatörler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/mantıksal_operatörler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ödev1/daire_alani.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev1/daire_alani.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ödev1/deneme1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev1/deneme1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ödev1/hiponetus_bulma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev1/hiponetus_bulma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ödev1/kdv_tutarı.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev1/kdv_tutarı.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ödev1/kitle_endeks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev1/kitle_endeks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ödev1/manav_kasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev1/manav_kasa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ödev1/ortalama_hesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev1/ortalama_hesaplama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ödev1/taksimetre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev1/taksimetre.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +46,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.JavaPatika.executor": "Run",
+    "Application.aritmetik_islemler.executor": "Run",
+    "Application.aritmetikislemler_ıslemonceligi.executor": "Run",
     "Application.daire_alani.executor": "Run",
     "Application.deneme1.executor": "Run",
     "Application.getting_value.executor": "Run",
+    "Application.hesap_makinesi.executor": "Run",
     "Application.hiponetus_bulma.executor": "Run",
+    "Application.if_else.executor": "Run",
     "Application.kdv_tutarı.executor": "Run",
     "Application.kitle_endeks.executor": "Run",
+    "Application.kullanici_girisi.executor": "Run",
     "Application.manav_kasa.executor": "Run",
     "Application.mantıksal_operatörler.executor": "Run",
+    "Application.odev1.hiponetus_bulma.executor": "Run",
     "Application.ortalama_hesaplama.executor": "Run",
+    "Application.sabitler.executor": "Run",
+    "Application.switch_case.executor": "Run",
     "Application.taksimetre.executor": "Run",
     "Application.veri_alma.executor": "Run",
     "Application.ödev1.ortalama_hesaplama.executor": "Run",
@@ -55,16 +71,17 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/oguzh/IdeaProjects/Practical_Examples/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/oguzh/IdeaProjects/Practical_Examples/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.manav_kasa">
-    <configuration name="daire_alani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ödev1.daire_alani" />
+  <component name="RunManager" selected="Application.kullanici_girisi">
+    <configuration name="hesap_makinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.hesap_makinesi" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ödev1.*" />
+          <option name="PATTERN" value="Week_1.odev2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hiponetus_bulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ödev1.hiponetus_bulma" />
+    <configuration name="if_else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.if_else" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ödev1.*" />
+          <option name="PATTERN" value="Week_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kitle_endeks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ödev1.kitle_endeks" />
+    <configuration name="kullanici_girisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.kullanici_girisi" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ödev1.*" />
+          <option name="PATTERN" value="Week_1.odev2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="manav_kasa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ödev1.manav_kasa" />
+    <configuration name="mantıksal_operatörler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.mantıksal_operatörler" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ödev1.*" />
+          <option name="PATTERN" value="Week_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="taksimetre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ödev1.taksimetre" />
+    <configuration name="switch_case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.switch_case" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ödev1.*" />
+          <option name="PATTERN" value="Week_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.manav_kasa" />
-        <item itemvalue="Application.kitle_endeks" />
-        <item itemvalue="Application.daire_alani" />
-        <item itemvalue="Application.taksimetre" />
-        <item itemvalue="Application.hiponetus_bulma" />
+        <item itemvalue="Application.kullanici_girisi" />
+        <item itemvalue="Application.hesap_makinesi" />
+        <item itemvalue="Application.switch_case" />
+        <item itemvalue="Application.if_else" />
+        <item itemvalue="Application.mantıksal_operatörler" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713800474766</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Sabit Kilo fiyatlarına satın alınan kilolar girilerek toplam manav alışveriş fiyatı hesaplaması.">
+      <option name="closed" value="true" />
+      <created>1713802477328</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713802477328</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -268,7 +293,8 @@
     <MESSAGE value="minumun ödeme işlemi için değişken atandı." />
     <MESSAGE value="Yarı çağ değeri  için ve belirli bir açı aralıgındaki daire için alan hesaplaması yapılması." />
     <MESSAGE value="Boy ve kilo değerleri alınarak kütle indeksi hesaplaması yapıldı." />
-    <option name="LAST_COMMIT_MESSAGE" value="Boy ve kilo değerleri alınarak kütle indeksi hesaplaması yapıldı." />
+    <MESSAGE value="Sabit Kilo fiyatlarına satın alınan kilolar girilerek toplam manav alışveriş fiyatı hesaplaması." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sabit Kilo fiyatlarına satın alınan kilolar girilerek toplam manav alışveriş fiyatı hesaplaması." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

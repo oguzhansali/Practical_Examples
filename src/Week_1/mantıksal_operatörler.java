@@ -7,7 +7,10 @@ public class mantıksal_operatörler {
         boolean sonuc2 =  c>=b;
         System.out.println(sonuc2||sonuc1);
         System.out.println(sonuc2&&sonuc1);
-        System.out.println(!(sonuc2&&sonuc1));
+
+
+
+
 
     }
 
