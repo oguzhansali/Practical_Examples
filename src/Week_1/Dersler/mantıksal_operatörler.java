@@ -1,4 +1,4 @@
-package Week_1;
+package Week_1.Dersler;
 
 public class mantıksal_operatörler {
     public static void main(String[] args) {

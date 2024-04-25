@@ -1,4 +1,4 @@
-package Week_1;
+package Week_1.Dersler;
 import java.util.Scanner;
 public class aritmetik_islemler {
     public static void main(String[] args) {
