@@ -2,7 +2,7 @@ package Week_1.odev1;
 
 import java.util.Scanner;
 
-public class aritmetikislemler_ıslemonceligi {
+public class AritmetikIslemlerVeIslemOnceliği {
     public static void main(String[] args) {
         double a, b, c;
         Scanner innput = new Scanner(System.in);

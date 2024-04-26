@@ -2,7 +2,7 @@ package Week_1.odev1;
 
 import java.util.Scanner;// Scanner kullanimi için import edildi.
 
-public class manav_kasa {
+public class ManavKasaProgramı {
     public static void main(String[] args) {// main blogu eklendi.
 
         double a,e,d,m,p;//Değişkenler tanımlandı.
