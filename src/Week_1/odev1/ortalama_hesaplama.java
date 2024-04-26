@@ -28,16 +28,13 @@ public class ortalama_hesaplama {
         türkçe = input.nextInt();
 
         int toplam = (kimya + mat+müzik + fizik + tarih+ türkçe);
-        double sonuc = toplam /6 ;
+        int sonuc = toplam /6 ;
+        String avarage = (sonuc>60) ? "Başarıyla Geçtiniz. Ortalamanız : " + sonuc  : "Başarısız. Ortalamanız : " + sonuc ;
+        System.out.println(avarage);
 
-        System.out.println("Not ortalamanız: " +  sonuc);
 
-        if(sonuc >= 60){
-            System.out.println("Başarıyla geçtiniz.");
 
-        }else{
-            System.out.println("Başarısız.");
-        }
+
 
 
 

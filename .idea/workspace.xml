@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment="if else ve switch case ile pratik yapıldı">
+    <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/odev1/ortalama_hesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev1/ortalama_hesaplama.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,47 +35,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.JavaPatika.executor": "Run",
-    "Application.aritmetik_islemler.executor": "Run",
-    "Application.aritmetikislemler_ıslemonceligi.executor": "Run",
-    "Application.artık_yıl.executor": "Run",
-    "Application.burcbulan_program.executor": "Run",
-    "Application.cin_zodyagı_hesaplama.executor": "Run",
-    "Application.daire_alani.executor": "Run",
-    "Application.deneme1.executor": "Run",
-    "Application.etkinllik_onerme.executor": "Run",
-    "Application.getting_value.executor": "Run",
-    "Application.hesap_makinesi.executor": "Run",
-    "Application.hiponetus_bulma.executor": "Run",
-    "Application.if_else.executor": "Run",
-    "Application.kdv_tutarı.executor": "Run",
-    "Application.kitle_endeks.executor": "Run",
-    "Application.kullanici_girisi.executor": "Run",
-    "Application.manav_kasa.executor": "Run",
-    "Application.mantıksal_operatörler.executor": "Run",
-    "Application.odev1.hiponetus_bulma.executor": "Run",
-    "Application.ortalama_hesaplama.executor": "Run",
-    "Application.sabitler.executor": "Run",
-    "Application.sayı_sıralama.executor": "Run",
-    "Application.switch_case.executor": "Run",
-    "Application.sınıf_gecmedurumu.executor": "Run",
-    "Application.taksimetre.executor": "Run",
-    "Application.ucak_bileti_fiyati.executor": "Run",
-    "Application.veri_alma.executor": "Run",
-    "Application.ödev1.ortalama_hesaplama.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/oguzh/IdeaProjects/Practical_Examples/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.JavaPatika.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aritmetik_islemler.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aritmetikislemler_ıslemonceligi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.artık_yıl.executor&quot;: &quot;Run&quot;,
+    &quot;Application.burcbulan_program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.cin_zodyagı_hesaplama.executor&quot;: &quot;Run&quot;,
+    &quot;Application.daire_alani.executor&quot;: &quot;Run&quot;,
+    &quot;Application.deneme1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.etkinllik_onerme.executor&quot;: &quot;Run&quot;,
+    &quot;Application.getting_value.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hesap_makinesi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hiponetus_bulma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.if_else.executor&quot;: &quot;Run&quot;,
+    &quot;Application.kdv_tutarı.executor&quot;: &quot;Run&quot;,
+    &quot;Application.kitle_endeks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.kullanici_girisi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.manav_kasa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mantıksal_operatörler.executor&quot;: &quot;Run&quot;,
+    &quot;Application.odev1.hiponetus_bulma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ortalama_hesaplama.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sabitler.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sayı_sıralama.executor&quot;: &quot;Run&quot;,
+    &quot;Application.switch_case.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sınıf_gecmedurumu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.taksimetre.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ucak_bileti_fiyati.executor&quot;: &quot;Run&quot;,
+    &quot;Application.veri_alma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ödev1.ortalama_hesaplama.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/oguzh/IdeaProjects/Practical_Examples/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.artık_yıl">
+}</component>
+  <component name="RunManager" selected="Application.ortalama_hesaplama">
     <configuration name="artık_yıl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_1.odev2.artık_yıl" />
       <module name="Practical_Examples" />
@@ -114,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sayı_sıralama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.sayı_sıralama" />
+    <configuration name="ortalama_hesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev1.ortalama_hesaplama" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_1.Dersler.*" />
+          <option name="PATTERN" value="Week_1.odev1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ortalama_hesaplama" />
         <item itemvalue="Application.artık_yıl" />
         <item itemvalue="Application.ucak_bileti_fiyati" />
         <item itemvalue="Application.cin_zodyagı_hesaplama" />
         <item itemvalue="Application.burcbulan_program" />
-        <item itemvalue="Application.sayı_sıralama" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714040448447</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary=".">
+      <option name="closed" value="true" />
+      <created>1714056410482</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1714056410482</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -318,7 +327,8 @@
     <MESSAGE value="Boy ve kilo değerleri alınarak kütle indeksi hesaplaması yapıldı." />
     <MESSAGE value="Sabit Kilo fiyatlarına satın alınan kilolar girilerek toplam manav alışveriş fiyatı hesaplaması." />
     <MESSAGE value="if else ve switch case ile pratik yapıldı" />
-    <option name="LAST_COMMIT_MESSAGE" value="if else ve switch case ile pratik yapıldı" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
