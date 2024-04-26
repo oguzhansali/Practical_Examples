@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class SınıfGecmeDurumu {
     public static void main(String[] args) {
+        //Değişkenler tanımlanarak kullanıcıdan bu bilgiler alınmıştır.
         int a, b, c, d,  e;
         Scanner input = new Scanner(System.in);
         System.out.println("Matematik notunuzu giriniz : ");
@@ -18,6 +19,7 @@ public class SınıfGecmeDurumu {
         e = input.nextInt();
         double total = 0;
         double count = 0;
+        //Kosul bloğu oluşturularak gerekli şartların sağlanması incelendi.
         if(a>=0 && a<=100){
             total+=a;
             count++;
@@ -49,9 +51,11 @@ public class SınıfGecmeDurumu {
         }else{
             System.out.println("Geçersiz Müzik Notu Girdiniz!");
         }
+//Oortalama hesaplandı.
+        double result = total/count;
+        String avarage = (result>55)?"Basarıyla gectiniz.Notunuz : " + result : "Başarısız.Notunuz : " + result;
+        System.out.println(avarage);
 
-        double avarage = total/count;
-        System.out.println("Ortalamanız:" + avarage);
 
 
 

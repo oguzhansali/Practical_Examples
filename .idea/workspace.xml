@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_1/odev2/hesap_makinesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev2/HesapMakinesi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_1/odev2/kullanici_girisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev2/KullaniciGirisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/odev2/SınıfGecmeDurumu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev2/SınıfGecmeDurumu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.FaktoriyelHesaplamaProgramı.executor": "Run",
+    "Application.HesapMakinesi.executor": "Run",
     "Application.JavaPatika.executor": "Run",
+    "Application.KullaniciGirisi.executor": "Run",
     "Application.aritmetik_islemler.executor": "Run",
     "Application.aritmetikislemler_ıslemonceligi.executor": "Run",
     "Application.artık_yıl.executor": "Run",
@@ -85,7 +86,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FaktoriyelHesaplamaProgramı">
+  <component name="RunManager" selected="Application.SınıfGecmeDurumu">
     <configuration name="FaktoriyelHesaplamaProgramı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_1.odev3.FaktoriyelHesaplamaProgramı" />
       <module name="Practical_Examples" />
@@ -99,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GirilenSayıyaKadarCıftSayıBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.odev3.GirilenSayıyaKadarCıftSayıBulma" />
+    <configuration name="HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.HesapMakinesi" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_1.odev3.*" />
+          <option name="PATTERN" value="Week_1.odev2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TekSayilarinToplami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.odev3.TekSayilarinToplami" />
+    <configuration name="KullaniciGirisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.KullaniciGirisi" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_1.odev3.*" />
+          <option name="PATTERN" value="Week_1.odev2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,8 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ornek_while" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.Dersler.ornek_while" />
+    <configuration name="SınıfGecmeDurumu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.SınıfGecmeDurumu" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
@@ -153,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SınıfGecmeDurumu" />
+        <item itemvalue="Application.KullaniciGirisi" />
+        <item itemvalue="Application.HesapMakinesi" />
         <item itemvalue="Application.FaktoriyelHesaplamaProgramı" />
         <item itemvalue="Application.IkininKuvvetiniBulmaProgramı" />
-        <item itemvalue="Application.TekSayilarinToplami" />
-        <item itemvalue="Application.ornek_while" />
-        <item itemvalue="Application.GirilenSayıyaKadarCıftSayıBulma" />
       </list>
     </recent_temporary>
   </component>
@@ -369,7 +370,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714148545200</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary=".">
+      <option name="closed" value="true" />
+      <created>1714150429209</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1714150429209</updated>
+    </task>
+    <task id="LOCAL-00026" summary=".">
+      <option name="closed" value="true" />
+      <created>1714150443788</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1714150443788</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
