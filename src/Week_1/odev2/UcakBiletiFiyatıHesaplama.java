@@ -4,11 +4,12 @@ import java.util.Scanner;
 
 public class UcakBiletiFiyatıHesaplama {
     public static void main(String[] args) {
+        //Degıskenler tanımlandı.
         double mesafe,normaltutar,yasindirimi1,yasindirimi2,yasindirimi3,gidisdonusindirim,indirimlitutar1,indirimlitutar2,indirimlitutar3;
         int yas,yolculluk_tipi;
 
         Scanner input = new Scanner(System.in);
-
+//Kullanıcıdan verıler alındı.
         System.out.println("Gidilecek mesafeyi giriniz : ");
         mesafe = input.nextDouble();
 
@@ -18,7 +19,7 @@ public class UcakBiletiFiyatıHesaplama {
         System.out.println("Yolculuk tipini giriniz:\n1=Tek Yön\n2=Gidiş Dönüş");
         yolculluk_tipi = input.nextInt();
 
-
+//Degıskenler atandı.
         normaltutar = mesafe*0.10;
         yasindirimi1=normaltutar*0.5;
         yasindirimi2=normaltutar*0.1;
@@ -27,7 +28,7 @@ public class UcakBiletiFiyatıHesaplama {
         indirimlitutar1= normaltutar-yasindirimi1;
         indirimlitutar2=normaltutar-yasindirimi2;
         indirimlitutar3=normaltutar-yasindirimi3;
-
+//Kosulun saglanması sağlandı.Sonuc yazdırıldı.
         if (yas>0&&yas<12){
             if (yolculluk_tipi==2&&mesafe>0){
                 System.out.println("Toplam Tutar : " + (normaltutar - yasindirimi1 - indirimlitutar1*gidisdonusindirim)+"TL");
