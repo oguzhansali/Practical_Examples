@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class SayilariBuyuktenKucugeSıralama {
     public static void main(String[] args) {
+        //Degıskenler tanımlanarak kullanıcıdan bu degıskenlerın gırılmesı ıstenmıstır.
         int a, b, c;
         Scanner input = new Scanner(System.in);
 
@@ -13,7 +14,7 @@ public class SayilariBuyuktenKucugeSıralama {
         b = input.nextInt();
         System.out.println("3.Sayıyı giriniz.");
         c = input.nextInt();
-
+//Kosul blogu oluşturularak sayıları sıralama işlemi yapıldı.
         if(a<b && a<c){
             if(b<c){
                 System.out.println(a + "<"+ b + "<" + c);

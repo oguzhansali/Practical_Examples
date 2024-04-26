@@ -86,20 +86,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HavaSıcakliginaGoreEtkinlikOnerme">
-    <configuration name="FaktoriyelHesaplamaProgramı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.odev3.FaktoriyelHesaplamaProgramı" />
-      <module name="Practical_Examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_1.odev3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SayilariBuyuktenKucugeSıralama">
     <configuration name="HavaSıcakliginaGoreEtkinlikOnerme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_1.odev2.HavaSıcakliginaGoreEtkinlikOnerme" />
       <module name="Practical_Examples" />
@@ -139,6 +126,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SayilariBuyuktenKucugeSıralama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.SayilariBuyuktenKucugeSıralama" />
+      <module name="Practical_Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_1.odev2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SınıfGecmeDurumu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_1.odev2.SınıfGecmeDurumu" />
       <module name="Practical_Examples" />
@@ -154,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SayilariBuyuktenKucugeSıralama" />
         <item itemvalue="Application.HavaSıcakliginaGoreEtkinlikOnerme" />
         <item itemvalue="Application.SınıfGecmeDurumu" />
         <item itemvalue="Application.KullaniciGirisi" />
         <item itemvalue="Application.HesapMakinesi" />
-        <item itemvalue="Application.FaktoriyelHesaplamaProgramı" />
       </list>
     </recent_temporary>
   </component>
