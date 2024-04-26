@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment=".">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_1/odev2/UcakBiletiFiyatıHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev2/UcakBiletiFiyatıHesaplama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/odev2/CınZodyagiHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev2/CınZodyagiHesaplama.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +44,7 @@
     "Application.KullaniciGirisi.executor": "Run",
     "Application.SayilariBuyuktenKucugeSıralama.executor": "Run",
     "Application.SınıfGecmeDurumu.executor": "Run",
+    "Application.UcakBiletiFiyatıHesaplama.executor": "Run",
     "Application.aritmetik_islemler.executor": "Run",
     "Application.aritmetikislemler_ıslemonceligi.executor": "Run",
     "Application.artık_yıl.executor": "Run",
@@ -90,9 +90,22 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UcakBiletiFiyatıHesaplama">
+  <component name="RunManager" selected="Application.CınZodyagiHesaplama">
     <configuration name="BurcBulanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_1.odev2.BurcBulanProgram" />
+      <module name="Practical_Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_1.odev2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CınZodyagiHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.CınZodyagiHesaplama" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
@@ -130,19 +143,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SınıfGecmeDurumu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.SınıfGecmeDurumu" />
-      <module name="Practical_Examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_1.odev2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UcakBiletiFiyatıHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_1.odev2.UcakBiletiFiyatıHesaplama" />
       <module name="Practical_Examples" />
@@ -158,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CınZodyagiHesaplama" />
         <item itemvalue="Application.UcakBiletiFiyatıHesaplama" />
         <item itemvalue="Application.BurcBulanProgram" />
         <item itemvalue="Application.SayilariBuyuktenKucugeSıralama" />
         <item itemvalue="Application.HavaSıcakliginaGoreEtkinlikOnerme" />
-        <item itemvalue="Application.SınıfGecmeDurumu" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +422,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714152805920</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary=".">
+      <option name="closed" value="true" />
+      <created>1714153251531</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1714153251531</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

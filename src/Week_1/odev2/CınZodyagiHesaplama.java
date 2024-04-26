@@ -4,13 +4,14 @@ import java.util.Scanner;
 
 public class CınZodyagiHesaplama {
     public static void main(String[] args) {
+        //Degıskenler tanımlandı.
         int birthyear,result;
         String burc ="";
         Scanner input = new Scanner(System.in);
         System.out.print("Doğum Yılınızı Giriniz : ");
         birthyear = input.nextInt();
         result = birthyear%12;
-
+//Koşulun saglanması yapıldı.
         switch (result){
             case 0:
                 burc="Maymun";
@@ -53,7 +54,7 @@ public class CınZodyagiHesaplama {
                 break;
 
         }
-
+//Çıktı ekrana yazdırıldı.
         System.out.println("Çin Zodyağı Burcunuz : " + burc);
     }
 }
