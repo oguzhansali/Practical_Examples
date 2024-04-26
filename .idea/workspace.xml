@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_1/odev1/ortalama_hesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev1/ortalama_hesaplama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/odev3/ikininkuvvetlerinibulanprogram.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,53 +35,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.JavaPatika.executor&quot;: &quot;Run&quot;,
-    &quot;Application.aritmetik_islemler.executor&quot;: &quot;Run&quot;,
-    &quot;Application.aritmetikislemler_ıslemonceligi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.artık_yıl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.burcbulan_program.executor&quot;: &quot;Run&quot;,
-    &quot;Application.cin_zodyagı_hesaplama.executor&quot;: &quot;Run&quot;,
-    &quot;Application.daire_alani.executor&quot;: &quot;Run&quot;,
-    &quot;Application.deneme1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.etkinllik_onerme.executor&quot;: &quot;Run&quot;,
-    &quot;Application.getting_value.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hesap_makinesi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hiponetus_bulma.executor&quot;: &quot;Run&quot;,
-    &quot;Application.if_else.executor&quot;: &quot;Run&quot;,
-    &quot;Application.kdv_tutarı.executor&quot;: &quot;Run&quot;,
-    &quot;Application.kitle_endeks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.kullanici_girisi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.manav_kasa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.mantıksal_operatörler.executor&quot;: &quot;Run&quot;,
-    &quot;Application.odev1.hiponetus_bulma.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ortalama_hesaplama.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sabitler.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sayı_sıralama.executor&quot;: &quot;Run&quot;,
-    &quot;Application.switch_case.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sınıf_gecmedurumu.executor&quot;: &quot;Run&quot;,
-    &quot;Application.taksimetre.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ucak_bileti_fiyati.executor&quot;: &quot;Run&quot;,
-    &quot;Application.veri_alma.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ödev1.ortalama_hesaplama.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/oguzh/IdeaProjects/Practical_Examples/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FaktoriyelHesaplamaProgramı.executor": "Run",
+    "Application.JavaPatika.executor": "Run",
+    "Application.aritmetik_islemler.executor": "Run",
+    "Application.aritmetikislemler_ıslemonceligi.executor": "Run",
+    "Application.artık_yıl.executor": "Run",
+    "Application.break_continue.executor": "Run",
+    "Application.burcbulan_program.executor": "Run",
+    "Application.cin_zodyagı_hesaplama.executor": "Run",
+    "Application.daire_alani.executor": "Run",
+    "Application.deneme.executor": "Run",
+    "Application.deneme1.executor": "Run",
+    "Application.do_while.executor": "Run",
+    "Application.etkinllik_onerme.executor": "Run",
+    "Application.getting_value.executor": "Run",
+    "Application.girilen_sayiyakadar_çiftsayibulma.executor": "Run",
+    "Application.hesap_makinesi.executor": "Run",
+    "Application.hiponetus_bulma.executor": "Run",
+    "Application.if_else.executor": "Run",
+    "Application.ikininkuvvetlerinibulanprogram.executor": "Run",
+    "Application.kdv_tutarı.executor": "Run",
+    "Application.kitle_endeks.executor": "Run",
+    "Application.kullanici_girisi.executor": "Run",
+    "Application.manav_kasa.executor": "Run",
+    "Application.mantıksal_operatörler.executor": "Run",
+    "Application.odev1.hiponetus_bulma.executor": "Run",
+    "Application.ornek_while.executor": "Run",
+    "Application.ortalama_hesaplama.executor": "Run",
+    "Application.sabitler.executor": "Run",
+    "Application.sayı_sıralama.executor": "Run",
+    "Application.switch_case.executor": "Run",
+    "Application.sınıf_gecmedurumu.executor": "Run",
+    "Application.taksimetre.executor": "Run",
+    "Application.teksayilarin_toplami.executor": "Run",
+    "Application.ucak_bileti_fiyati.executor": "Run",
+    "Application.veri_alma.executor": "Run",
+    "Application.while_dongusu.executor": "Run",
+    "Application.ödev1.ortalama_hesaplama.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/oguzh/IdeaProjects/Practical_Examples/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Application.ortalama_hesaplama">
-    <configuration name="artık_yıl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.artık_yıl" />
+}]]></component>
+  <component name="RunManager" selected="Application.FaktoriyelHesaplamaProgramı">
+    <configuration name="FaktoriyelHesaplamaProgramı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev3.FaktoriyelHesaplamaProgramı" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_1.odev2.*" />
+          <option name="PATTERN" value="Week_1.odev3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="burcbulan_program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.burcbulan_program" />
+    <configuration name="GirilenSayıyaKadarCıftSayıBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev3.GirilenSayıyaKadarCıftSayıBulma" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_1.odev2.*" />
+          <option name="PATTERN" value="Week_1.odev3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cin_zodyagı_hesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.cin_zodyagı_hesaplama" />
+    <configuration name="IkininKuvvetiniBulmaProgramı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev3.IkininKuvvetiniBulmaProgramı" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_1.odev2.*" />
+          <option name="PATTERN" value="Week_1.odev3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ortalama_hesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.odev1.ortalama_hesaplama" />
+    <configuration name="TekSayilarinToplami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev3.TekSayilarinToplami" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_1.odev1.*" />
+          <option name="PATTERN" value="Week_1.odev3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ucak_bileti_fiyati" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.ucak_bileti_fiyati" />
+    <configuration name="ornek_while" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.Dersler.ornek_while" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_1.odev2.*" />
+          <option name="PATTERN" value="Week_1.Dersler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ortalama_hesaplama" />
-        <item itemvalue="Application.artık_yıl" />
-        <item itemvalue="Application.ucak_bileti_fiyati" />
-        <item itemvalue="Application.cin_zodyagı_hesaplama" />
-        <item itemvalue="Application.burcbulan_program" />
+        <item itemvalue="Application.FaktoriyelHesaplamaProgramı" />
+        <item itemvalue="Application.IkininKuvvetiniBulmaProgramı" />
+        <item itemvalue="Application.TekSayilarinToplami" />
+        <item itemvalue="Application.ornek_while" />
+        <item itemvalue="Application.GirilenSayıyaKadarCıftSayıBulma" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +320,39 @@
       <option name="project" value="LOCAL" />
       <updated>1714056410482</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary=".">
+      <option name="closed" value="true" />
+      <created>1714121447430</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1714121447430</updated>
+    </task>
+    <task id="LOCAL-00020" summary=".">
+      <option name="closed" value="true" />
+      <created>1714135722918</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1714135722918</updated>
+    </task>
+    <task id="LOCAL-00021" summary=".">
+      <option name="closed" value="true" />
+      <created>1714140654214</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1714140654214</updated>
+    </task>
+    <task id="LOCAL-00022" summary=".">
+      <option name="closed" value="true" />
+      <created>1714146714624</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1714146714624</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
