@@ -28,7 +28,7 @@ public class UcakBiletiFiyatıHesaplama {
         indirimlitutar1= normaltutar-yasindirimi1;
         indirimlitutar2=normaltutar-yasindirimi2;
         indirimlitutar3=normaltutar-yasindirimi3;
-//Kosulun saglanması sağlandı.Sonuc yazdırıldı.
+//Kosulun saglanması kontrol edildi.Sonuc yazdırıldı.
         if (yas>0&&yas<12){
             if (yolculluk_tipi==2&&mesafe>0){
                 System.out.println("Toplam Tutar : " + (normaltutar - yasindirimi1 - indirimlitutar1*gidisdonusindirim)+"TL");
