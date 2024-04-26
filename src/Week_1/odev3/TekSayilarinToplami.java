@@ -2,7 +2,7 @@ package Week_1.odev3;
 
 import java.util.Scanner;
 
-public class teksayilarin_toplami {
+public class TekSayilarinToplami {
     public static void main(String[] args) {
         int i;
         int sum =0;

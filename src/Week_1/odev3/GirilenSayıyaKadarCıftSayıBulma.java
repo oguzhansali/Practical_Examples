@@ -2,7 +2,7 @@ package Week_1.odev3;
 
 import java.util.Scanner;
 
-public class girilen_sayiyakadar_çiftsayibulma {
+public class GirilenSayıyaKadarCıftSayıBulma {
     public static void main(String[] args) {
         int k ;
         Scanner input = new Scanner(System.in);
