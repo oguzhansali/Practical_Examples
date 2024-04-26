@@ -4,38 +4,29 @@ import java.util.Scanner;
 
 public class FaktoriyelHesaplamaProgramı {
     public static void main(String[] args) {
+        //Degiskenler tanımlandı.
         int n,r;
-        int nfak=1;
-        int rfak=1;
-        int i=1;
-        int farkfak=1;
-
-        Scanner inp = new Scanner(System.in);
-        System.out.print("Birinci sayıyı giriniz : ");
-        n= inp.nextInt();
-        System.out.print("İkinci sayıyı giriniz : ");
-        r = inp.nextInt();
-
+        int i =1;
+        int sum1=1;
+        int sum2=1;
+        Scanner input = new Scanner(System.in);
+//Kullanıcıdan veriler alındı.
+        System.out.println("1.Sayıyı Giriniz: ");
+        n= input.nextInt();
+        System.out.println("2.Sayıyı Giriniz: ");
+        r= input.nextInt();
+        //Kombinasyon işlemini hesaplayan dongu olusturuldu.
         do {
-
-
-            int fark= n - r ;
-
-            for (i =1; i<=n; i++){
-                nfak*=i;
+            for (i=1; i<=n; i++){
+                sum1*=i;
             }
             for (i=1; i<=r; i++){
-                rfak*=i;
+                sum2*=i;
             }
-            for ( i =1; i<=fark; i++){
-                farkfak*=i;
+            int kombinasyon = sum1/sum2;
+            System.out.println("C(" + n + "," + r + ") = " + kombinasyon);//Sonuclar yazdırıldı.
 
-            }
-            int komb= nfak/(rfak*farkfak);
-            System.out.println(n + " Kombinasyon " + r +" 'nin sonucu " + komb + " dur.");
-        }while (n>=i && r>=i );
-
-
+        }while (i<=n && i<=r );//Bu kosul saglandı surece calısma kosulu.
 
     }
 }
