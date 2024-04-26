@@ -2,7 +2,7 @@ package Week_1.odev2;
 
 import java.util.Scanner;
 
-public class sayı_sıralama {
+public class SayilariBuyuktenKucugeSıralama {
     public static void main(String[] args) {
         int a, b, c;
         Scanner input = new Scanner(System.in);

@@ -1,8 +1,8 @@
-package Week_1.Dersler;
+package Week_1.odev2;
 
 import java.util.Scanner;
 
-public class sınıf_gecmedurumu {
+public class SınıfGecmeDurumu {
     public static void main(String[] args) {
         int a, b, c, d,  e;
         Scanner input = new Scanner(System.in);

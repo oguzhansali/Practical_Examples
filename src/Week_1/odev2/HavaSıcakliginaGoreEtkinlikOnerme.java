@@ -2,7 +2,7 @@ package Week_1.odev2;
 
 import java.util.Scanner;
 
-public class etkinllik_onerme {
+public class HavaSıcakliginaGoreEtkinlikOnerme {
     public static void main(String[] args) {
         int heat;
         Scanner input= new Scanner(System.in);

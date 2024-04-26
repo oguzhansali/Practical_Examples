@@ -2,7 +2,7 @@ package Week_1.odev2;
 
 import java.util.Scanner;
 
-public class cin_zodyagı_hesaplama {
+public class CınZodyagiHesaplama {
     public static void main(String[] args) {
         int birthyear,result;
         String burc ="";

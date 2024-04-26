@@ -2,7 +2,7 @@ package Week_1.odev2;
 
 import java.util.Scanner;
 
-public class burcbulan_program {
+public class BurcBulanProgram {
     public static void main(String[] args) {
         int day;
         String months ;

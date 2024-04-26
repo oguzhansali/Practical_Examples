@@ -2,7 +2,7 @@ package Week_1.odev2;
 
 import java.util.Scanner;
 
-public class ucak_bileti_fiyati {
+public class UcakBiletiFiyatıHesaplama {
     public static void main(String[] args) {
         double mesafe,normaltutar,yasindirimi1,yasindirimi2,yasindirimi3,gidisdonusindirim,indirimlitutar1,indirimlitutar2,indirimlitutar3;
         int yas,yolculluk_tipi;

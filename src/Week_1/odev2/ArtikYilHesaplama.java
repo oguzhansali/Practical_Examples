@@ -2,7 +2,7 @@ package Week_1.odev2;
 
 import java.util.Scanner;
 
-public class artık_yıl {
+public class ArtikYilHesaplama {
     public static void main(String[] args) {
         int year,a,b,c;
         Scanner input = new Scanner(System.in);
