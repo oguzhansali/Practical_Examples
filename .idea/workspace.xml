@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment=".">
-      <change beforePath="$PROJECT_DIR$/src/Week_1/odev2/HavaSıcakliginaGoreEtkinlikOnerme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev2/HavaSıcakliginaGoreEtkinlikOnerme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/odev2/BurcBulanProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev2/BurcBulanProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +37,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.FaktoriyelHesaplamaProgramı.executor": "Run",
+    "Application.HavaSıcakliginaGoreEtkinlikOnerme.executor": "Run",
     "Application.HesapMakinesi.executor": "Run",
     "Application.JavaPatika.executor": "Run",
     "Application.KullaniciGirisi.executor": "Run",
+    "Application.SayilariBuyuktenKucugeSıralama.executor": "Run",
     "Application.SınıfGecmeDurumu.executor": "Run",
     "Application.aritmetik_islemler.executor": "Run",
     "Application.aritmetikislemler_ıslemonceligi.executor": "Run",
@@ -86,9 +88,9 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SayilariBuyuktenKucugeSıralama">
-    <configuration name="HavaSıcakliginaGoreEtkinlikOnerme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.HavaSıcakliginaGoreEtkinlikOnerme" />
+  <component name="RunManager" selected="Application.BurcBulanProgram">
+    <configuration name="BurcBulanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.BurcBulanProgram" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.HesapMakinesi" />
+    <configuration name="HavaSıcakliginaGoreEtkinlikOnerme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.HavaSıcakliginaGoreEtkinlikOnerme" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
@@ -154,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BurcBulanProgram" />
         <item itemvalue="Application.SayilariBuyuktenKucugeSıralama" />
         <item itemvalue="Application.HavaSıcakliginaGoreEtkinlikOnerme" />
         <item itemvalue="Application.SınıfGecmeDurumu" />
         <item itemvalue="Application.KullaniciGirisi" />
-        <item itemvalue="Application.HesapMakinesi" />
       </list>
     </recent_temporary>
   </component>
@@ -394,7 +396,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714151873978</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary=".">
+      <option name="closed" value="true" />
+      <created>1714152302154</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1714152302154</updated>
+    </task>
+    <task id="LOCAL-00029" summary=".">
+      <option name="closed" value="true" />
+      <created>1714152489429</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1714152489429</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

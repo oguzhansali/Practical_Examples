@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class BurcBulanProgram {
     public static void main(String[] args) {
+        //değişkneler tanımlandı.Kullanıcıdan veriler alındı.
         int day;
         String months ;
         Scanner input = new Scanner(System.in);
@@ -11,7 +12,7 @@ public class BurcBulanProgram {
         months = input.nextLine();
         System.out.println("Doğum gününüzü giriniz : ");
         day = input.nextInt();
-
+//Girilen degerler karsılastırıldı.
         if (months.equals("ocak")){
             if(day>=1 && day<=21){
                 System.out.println("Oğlak Burcusunuz.");
@@ -94,7 +95,7 @@ public class BurcBulanProgram {
             } else if (day>=21 && day<=31) {
                 System.out.println("Oğlak Burcusunuz.");
             }
-
+//Çıktı ekrana yazdırıldı.
         }else {
             System.out.println("Doğum ayınızı  karakterler küçük olacak şekilde tekrar giriniz.");
         }
