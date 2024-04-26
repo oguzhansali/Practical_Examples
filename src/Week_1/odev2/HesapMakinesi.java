@@ -29,7 +29,7 @@ public class HesapMakinesi {
             case 4:
                 if(b!=0){
                 System.out.println(a+ " ve " + b + " sayılarının bölümü: " + (a/b));
-                } else if (b==0) {
+                } else  {
                     System.out.println("Bir sayı 0 a bölünemez.");
                 }
                 break;
