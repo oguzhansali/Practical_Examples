@@ -4,11 +4,12 @@ import java.util.Scanner;
 
 public class HavaSıcakliginaGoreEtkinlikOnerme {
     public static void main(String[] args) {
+        //Degıskenler tanımlanarak.Kullanıcıdan degıskenlerın gırılmesı istenıldı.
         int heat;
         Scanner input= new Scanner(System.in);
         System.out.print("Sıcaklık Değerini Giriniz: ");
         heat = input.nextInt();
-        
+        //Çalışması istenilen koşullar için kosul bloğu oluşturuldu.
         if(heat<5){
             System.out.println("Kayak Yapabilirsiniz.");
         } else if (heat>=5 && heat<=15) {

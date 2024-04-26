@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment=".">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_1/odev2/SınıfGecmeDurumu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev2/SınıfGecmeDurumu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_1/odev2/HavaSıcakliginaGoreEtkinlikOnerme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev2/HavaSıcakliginaGoreEtkinlikOnerme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,7 @@
     "Application.HesapMakinesi.executor": "Run",
     "Application.JavaPatika.executor": "Run",
     "Application.KullaniciGirisi.executor": "Run",
+    "Application.SınıfGecmeDurumu.executor": "Run",
     "Application.aritmetik_islemler.executor": "Run",
     "Application.aritmetikislemler_ıslemonceligi.executor": "Run",
     "Application.artık_yıl.executor": "Run",
@@ -86,7 +86,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SınıfGecmeDurumu">
+  <component name="RunManager" selected="Application.HavaSıcakliginaGoreEtkinlikOnerme">
     <configuration name="FaktoriyelHesaplamaProgramı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_1.odev3.FaktoriyelHesaplamaProgramı" />
       <module name="Practical_Examples" />
@@ -100,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.HesapMakinesi" />
+    <configuration name="HavaSıcakliginaGoreEtkinlikOnerme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.HavaSıcakliginaGoreEtkinlikOnerme" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IkininKuvvetiniBulmaProgramı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.odev3.IkininKuvvetiniBulmaProgramı" />
+    <configuration name="HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.HesapMakinesi" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_1.odev3.*" />
+          <option name="PATTERN" value="Week_1.odev2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HavaSıcakliginaGoreEtkinlikOnerme" />
         <item itemvalue="Application.SınıfGecmeDurumu" />
         <item itemvalue="Application.KullaniciGirisi" />
         <item itemvalue="Application.HesapMakinesi" />
         <item itemvalue="Application.FaktoriyelHesaplamaProgramı" />
-        <item itemvalue="Application.IkininKuvvetiniBulmaProgramı" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +386,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714150443788</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary=".">
+      <option name="closed" value="true" />
+      <created>1714151873978</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1714151873978</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
