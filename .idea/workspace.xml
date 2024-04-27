@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0592ed0-9d99-4c2e-b04c-6db680eec388" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/Week_1/odev3/TipDönüşümleri.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Week_1/Dersler/deneme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/Dersler/deneme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Week_1/odev2/HesapMakinesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_1/odev2/HesapMakinesi.java" afterDir="false" />
@@ -38,21 +39,37 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArmstrongSayıBulma (1).executor": "Run",
+    "Application.ArmstrongSayıBulma.executor": "Run",
     "Application.ArtikYilHesaplama.executor": "Run",
+    "Application.AtmProjesi.executor": "Run",
+    "Application.BirYüzArasıAsalSayılar.executor": "Run",
     "Application.BurcBulanProgram.executor": "Run",
     "Application.CınZodyagiHesaplama.executor": "Run",
+    "Application.DenemeArmstrong (1).executor": "Run",
+    "Application.DenemeArmstrong.executor": "Run",
+    "Application.EbobEkokBulma.executor": "Run",
     "Application.FaktoriyelHesaplamaProgramı.executor": "Run",
+    "Application.FibonacciSerisi.executor": "Run",
     "Application.GirilenSayıyaKadarCıftSayıBulma.executor": "Run",
+    "Application.HarmonikSayilar.executor": "Run",
     "Application.HavaSıcakliginaGoreEtkinlikOnerme.executor": "Run",
     "Application.HesapMakinesi.executor": "Run",
     "Application.IkininKuvvetiniBulmaProgramı.executor": "Run",
     "Application.JavaPatika.executor": "Run",
     "Application.KombinasyonDeneme.executor": "Run",
     "Application.KullaniciGirisi.executor": "Run",
+    "Application.MinVeMaxDegerBulma.executor": "Run",
+    "Application.MükemmelSayı.executor": "Run",
     "Application.SayilariBuyuktenKucugeSıralama.executor": "Run",
     "Application.SınıfGecmeDurumu.executor": "Run",
     "Application.TekSayilarinToplami.executor": "Run",
+    "Application.TersUcgen.executor": "Run",
+    "Application.TipDönüşümleri.executor": "Run",
     "Application.UcakBiletiFiyatıHesaplama.executor": "Run",
+    "Application.UsluSayıHesaplama.executor": "Run",
+    "Application.YıldızlarIleUcgenYapımı.executor": "Run",
+    "Application.YıldızlarlaUcgenDeneme.executor": "Run",
     "Application.aritmetik_islemler.executor": "Run",
     "Application.aritmetikislemler_ıslemonceligi.executor": "Run",
     "Application.artık_yıl.executor": "Run",
@@ -97,12 +114,12 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/oguzh/IdeaProjects/Practical_Examples/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HesapMakinesi">
-    <configuration name="FaktoriyelHesaplamaProgramı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.odev3.FaktoriyelHesaplamaProgramı" />
+  <component name="RunManager" selected="Application.TipDönüşümleri">
+    <configuration name="BirYüzArasıAsalSayılar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev3.BirYüzArasıAsalSayılar" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
@@ -114,21 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.odev2.HesapMakinesi" />
-      <module name="Practical_Examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_1.odev2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IkininKuvvetiniBulmaProgramı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.odev3.IkininKuvvetiniBulmaProgramı" />
+    <configuration name="FibonacciSerisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev3.FibonacciSerisi" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
@@ -140,8 +144,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KombinasyonDeneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_1.Dersler.KombinasyonDeneme" />
+    <configuration name="TekSayilarinToplami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev3.TekSayilarinToplami" />
+      <module name="Practical_Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_1.odev3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TipDönüşümleri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.odev3.TipDönüşümleri" />
+      <module name="Practical_Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_1.odev3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_1.Dersler.deneme" />
       <module name="Practical_Examples" />
       <extension name="coverage">
         <pattern>
@@ -153,20 +183,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="deneme (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deneme" />
-      <module name="Practical_Examples" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HesapMakinesi" />
-        <item itemvalue="Application.FaktoriyelHesaplamaProgramı" />
-        <item itemvalue="Application.KombinasyonDeneme" />
-        <item itemvalue="Application.deneme (1)" />
-        <item itemvalue="Application.IkininKuvvetiniBulmaProgramı" />
+        <item itemvalue="Application.TipDönüşümleri" />
+        <item itemvalue="Application.TekSayilarinToplami" />
+        <item itemvalue="Application.deneme" />
+        <item itemvalue="Application.FibonacciSerisi" />
+        <item itemvalue="Application.BirYüzArasıAsalSayılar" />
       </list>
     </recent_temporary>
   </component>
@@ -185,22 +208,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713765753474</updated>
-    </task>
-    <task id="LOCAL-00001" summary="üçüncü bir değer girilerek işlem tekrarlandı.">
-      <option name="closed" value="true" />
-      <created>1713766283969</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1713766283969</updated>
-    </task>
-    <task id="LOCAL-00002" summary="üçüncü bir değer girilerek işlem tekrarlandı.">
-      <option name="closed" value="true" />
-      <created>1713776510684</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1713776510684</updated>
     </task>
     <task id="LOCAL-00003" summary="Değişkenler atanarak kullanıcıdan veriler alındı.">
       <option name="closed" value="true" />
@@ -482,7 +489,119 @@
       <option name="project" value="LOCAL" />
       <updated>1714161615969</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary=".">
+      <option name="closed" value="true" />
+      <created>1714162593796</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1714162593796</updated>
+    </task>
+    <task id="LOCAL-00039" summary=".">
+      <option name="closed" value="true" />
+      <created>1714202415704</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1714202415704</updated>
+    </task>
+    <task id="LOCAL-00040" summary=".">
+      <option name="closed" value="true" />
+      <created>1714212773457</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1714212773457</updated>
+    </task>
+    <task id="LOCAL-00041" summary=".">
+      <option name="closed" value="true" />
+      <created>1714219067343</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1714219067343</updated>
+    </task>
+    <task id="LOCAL-00042" summary=".">
+      <option name="closed" value="true" />
+      <created>1714219354824</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1714219354824</updated>
+    </task>
+    <task id="LOCAL-00043" summary=".">
+      <option name="closed" value="true" />
+      <created>1714224865646</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1714224865646</updated>
+    </task>
+    <task id="LOCAL-00044" summary=".">
+      <option name="closed" value="true" />
+      <created>1714226183833</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1714226183833</updated>
+    </task>
+    <task id="LOCAL-00045" summary=".">
+      <option name="closed" value="true" />
+      <created>1714235639149</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1714235639149</updated>
+    </task>
+    <task id="LOCAL-00046" summary=".">
+      <option name="closed" value="true" />
+      <created>1714241107793</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1714241107793</updated>
+    </task>
+    <task id="LOCAL-00047" summary=".">
+      <option name="closed" value="true" />
+      <created>1714243474017</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1714243474017</updated>
+    </task>
+    <task id="LOCAL-00048" summary=".">
+      <option name="closed" value="true" />
+      <created>1714246558535</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1714246558535</updated>
+    </task>
+    <task id="LOCAL-00049" summary=".">
+      <option name="closed" value="true" />
+      <created>1714248632006</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1714248632006</updated>
+    </task>
+    <task id="LOCAL-00050" summary=".">
+      <option name="closed" value="true" />
+      <created>1714250562512</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1714250562516</updated>
+    </task>
+    <task id="LOCAL-00051" summary=".">
+      <option name="closed" value="true" />
+      <created>1714252264550</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1714252264550</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

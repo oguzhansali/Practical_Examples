@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class HesapMakinesi {
     public static void main(String[] args) {
-        int a,b,select;//Degiskenler tanımladı.
+        int a, b, select;//Degiskenler tanımladı.
 //Kullanıcıdan degıskenler alıncı.
         Scanner input = new Scanner(System.in);
         System.out.print("1.Degeri giriniz: ");
@@ -16,20 +16,20 @@ public class HesapMakinesi {
         System.out.print("iŞLEMİNİZ:");
         select = input.nextInt();
 //Koşul bloğu eklenerek dogru sonuc yazdırılması saglandı.
-        switch (select){
+        switch (select) {
             case 1:
-                System.out.println(a+" ve " + b +" sayılarının toplamı: " + (a+b));
+                System.out.println(a + " ve " + b + " sayılarının toplamı: " + (a + b));
                 break;
             case 2:
-                System.out.println( a+ " ve " + b + " sayılarının farkı: " + (a-b));
+                System.out.println(a + " ve " + b + " sayılarının farkı: " + (a - b));
                 break;
             case 3:
-                System.out.println(a+ " ve " + b + " sayılarının çarpımı: "+ (a*b));
+                System.out.println(a + " ve " + b + " sayılarının çarpımı: " + (a * b));
                 break;
             case 4:
-                if(b!=0){
-                System.out.println(a+ " ve " + b + " sayılarının bölümü: " + (a/b));
-                } else  {
+                if (b != 0) {
+                    System.out.println(a + " ve " + b + " sayılarının bölümü: " + (a / b));
+                } else {
                     System.out.println("Bir sayı 0 a bölünemez.");
                 }
                 break;
