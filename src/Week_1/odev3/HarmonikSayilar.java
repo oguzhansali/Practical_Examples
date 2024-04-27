@@ -12,13 +12,13 @@ public class HarmonikSayilar {
         double toplam = 0;//Degiskende deger tanımlandı
 //Pozitif sayı için harmonik hesaplama yapıldı.
         if (sayi > 0) {
-            for (int i = 1; i <= sayi; i++) {
+            for (double i = 1.0; i <= sayi; i++) {
                 toplam += 1.0 / i;
             }
             System.out.println(sayi + " Harmonik Sayısının  Toplamı :  " + toplam);
 //Negatif sayı için harmonik hesaplama yapıldı.
         } else if (sayi < 0) {
-            for (int i = -1; i >= sayi; i--) {
+            for (double i = -1.0; i >= sayi; i--) {
                 toplam += 1.0 / i;
             }
             System.out.println(sayi + " Harmonik Sayısının Farkı :  " + toplam);
