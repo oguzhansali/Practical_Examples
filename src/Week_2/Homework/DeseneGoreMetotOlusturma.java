@@ -1,4 +1,4 @@
-package Week_2.Practices;
+package Week_2.Homework;
 
 import java.util.Scanner;
 
